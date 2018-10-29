@@ -1,4 +1,9 @@
 # Dapp-Election
+
+(I'll keep changing the code and updating README.md for the same.
+Also, I will add screenshots of the website as it is not hosted.)
+
+
 Healthcare supply chain using blockchain
 
 
